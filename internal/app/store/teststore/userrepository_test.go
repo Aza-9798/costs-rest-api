@@ -1,10 +1,11 @@
 package teststore_test
 
 import (
-	"first-rest-api/internal/app/model"
-	"first-rest-api/internal/app/store"
-	"first-rest-api/internal/app/store/teststore"
 	"testing"
+
+	"github.com/Aza-9798/costs-rest-api/internal/app/model"
+	"github.com/Aza-9798/costs-rest-api/internal/app/store"
+	"github.com/Aza-9798/costs-rest-api/internal/app/store/teststore"
 
 	"github.com/stretchr/testify/assert"
 )

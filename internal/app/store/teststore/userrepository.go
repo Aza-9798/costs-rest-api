@@ -1,8 +1,8 @@
 package teststore
 
 import (
-	"first-rest-api/internal/app/model"
-	"first-rest-api/internal/app/store"
+	"github.com/Aza-9798/costs-rest-api/internal/app/model"
+	"github.com/Aza-9798/costs-rest-api/internal/app/store"
 )
 
 type UserRepository struct {
