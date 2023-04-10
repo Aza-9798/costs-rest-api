@@ -1,0 +1,2 @@
+alter table transactions
+drop constraint check_transactions_source_destination;

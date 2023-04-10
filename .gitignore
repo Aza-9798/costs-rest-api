@@ -1,0 +1,7 @@
+#Compiled#
+*.exe
+
+.idea
+
+#Configs#
+configs/*
